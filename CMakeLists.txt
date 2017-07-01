@@ -8,3 +8,5 @@ add_executable(LearningCpp ${SOURCE_FILES})
 add_executable(Pythagoras src/pythagoras.cpp)
 add_executable(Greater src/greater.cpp)
 add_executable(StringsConcat src/strings/concat.cpp)
+add_executable(AscciArt src/strings/ascii_art.cpp
+        )
