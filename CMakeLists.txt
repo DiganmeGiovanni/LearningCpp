@@ -11,3 +11,5 @@ add_executable(StringsConcat src/strings/concat.cpp)
 add_executable(AscciArt src/strings/ascii_art.cpp)
 add_executable(Factorial src/factorial.cpp)
 add_executable(ReverseString src/strings/reverse.cpp)
+
+add_executable(Trinaries src/exercism/trinaries.cpp)
